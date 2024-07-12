@@ -1,0 +1,12 @@
+{
+    "jugador_img" : "Assets/Graficos/Ajolote.png",
+    "enemigo_img" : "Assets/Graficos",
+    "powerup_img" : "Assets/Graficos",
+    "bala_img" : "Assets/Graficos/Nokia 1100",
+    "bala_enemigo_img" : "Assets/Graficos/Armas",
+    "logo_img" : "Assets/Graficos/Logo.png",
+    "mute_img" : "Assets/Graficos/Mute button.png",
+    "fondo_img" : "Assets/Graficos/Fondo.png",
+    "corazon_amado_img" : "Assets/Graficos/Corazon amado.png",
+    "corazon_vacio_img" : "Assets/Graficos/Corazon vacio.png"
+}
